@@ -1,0 +1,43 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next -p 3333",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.16",
+    "@react-icons/all-files": "^4.1.0",
+    "@react-spring/web": "^9.5.5",
+    "antd": "^5.5.2",
+    "axios": "^0.26.1",
+    "cookie": "^0.4.2",
+    "cookies-next": "^2.0.4",
+    "haversine-distance": "^1.2.1",
+    "mobx": "^6.5.0",
+    "mobx-react": "^7.3.0",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.43",
+    "next": "latest",
+    "next-themes": "^0.0.15",
+    "react": "^17.0.2",
+    "react-calendar": "^4.3.0",
+    "react-detect-offline": "^2.4.5",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "react-infinite-scroll-component": "^6.1.0",
+    "react-inlinesvg": "^2.3.0",
+    "react-is": "^17.0.2",
+    "react-modal": "^3.14.4",
+    "react-phone-number-input": "^3.1.46",
+    "react-router-dom": "^6.15.0",
+    "socket.io-client": "^4.7.2",
+    "styled-components": "^5.2.3"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.12.0"
+  }
+}
